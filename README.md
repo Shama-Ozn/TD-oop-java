@@ -1,0 +1,2 @@
+# OOP Java Exercises for SITD Branch - University Hassan 1st FSTS
+This repository contains solutions to object-oriented programming (OOP) Java exercises assigned by Mr. Mehdi Ait Said for the System Information and Digital Transformation (SITD) branch at University Hassan 1st FSTS. The exercises have been resolved by Shaymae Houssam Ouazzani.
